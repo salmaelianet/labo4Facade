@@ -1,0 +1,4 @@
+Una empresa tiene varios incentivos para sus empleados como bonos e incrementos segun lo que ellos necesiten, 
+el patron facade se uso para poder calcular el sueldo total de los empleados incluido el o los incentivos que 
+se le dieron
+ 

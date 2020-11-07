@@ -1,0 +1,13 @@
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\labo4\labo4\obj\Debug\netcoreapp3.1\labo4.csprojAssemblyReference.cache
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\labo4\labo4\obj\Debug\netcoreapp3.1\labo4.AssemblyInfoInputs.cache
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\labo4\labo4\obj\Debug\netcoreapp3.1\labo4.AssemblyInfo.cs
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\labo4\labo4\obj\Debug\netcoreapp3.1\labo4.csproj.CoreCompileInputs.cache
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\labo4\labo4\bin\Debug\netcoreapp3.1\labo4.exe
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\labo4\labo4\bin\Debug\netcoreapp3.1\labo4.deps.json
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\labo4\labo4\bin\Debug\netcoreapp3.1\labo4.runtimeconfig.json
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\labo4\labo4\bin\Debug\netcoreapp3.1\labo4.runtimeconfig.dev.json
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\labo4\labo4\bin\Debug\netcoreapp3.1\labo4.dll
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\labo4\labo4\bin\Debug\netcoreapp3.1\labo4.pdb
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\labo4\labo4\obj\Debug\netcoreapp3.1\labo4.dll
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\labo4\labo4\obj\Debug\netcoreapp3.1\labo4.pdb
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\labo4\labo4\obj\Debug\netcoreapp3.1\labo4.genruntimeconfig.cache
